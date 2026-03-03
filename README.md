@@ -1,5 +1,6 @@
 # Financial Risk Analysis: EDA Case Study (Group 13)
 Overview
+
 This project uses Exploratory Data Analysis (EDA) to identify patterns that indicate if a loan applicant is likely to default. The goal is to help a finance company minimize risk by identifying high-risk profiles while ensuring capable applicants are not rejected.
 
 Key Findings
